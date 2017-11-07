@@ -1,1 +1,3 @@
-# project-poo
+# Apprentissage
+
+Introduction au POO
